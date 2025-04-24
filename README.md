@@ -6,10 +6,10 @@ The **PoCoP Backend API** is the server-side component of the PoCoP platform, ho
 Quicklinks : [indigodao.org](https://indigodao.org)
 
 ## Features
--- cardano wallet auth
--- anybody can submit content if connected
--- specific stakekeys can moderate ( .env file )
--- moderators can vote, categorize content and export the results
+- cardano wallet auth
+- anybody can submit content if connected
+- specific stakekeys can moderate ( .env file )
+- moderators can vote, categorize content and export the results
 
 ## Prerequisites
 
