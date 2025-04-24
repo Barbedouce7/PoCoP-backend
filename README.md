@@ -22,7 +22,8 @@ Node, Yarn, database (mongoDB or mariaDB)
    cd PoCoP-backend
    cp .env.example .env
    nano .env
-   yarn install```
+   yarn install
+```
 
 ## Environment Variables
 
